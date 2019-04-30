@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">facebook</string>
+// this code for make underline under the words
+    <string name="signFace"><u>sign up for facebook</u></string>
+</resources>
